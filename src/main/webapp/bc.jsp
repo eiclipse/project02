@@ -5,8 +5,9 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
+<script src="https://code.jquery.com/jquery-3.7.1.js"></script>
 </head>
 <body>
-	수정중인 너를 지켜보고있노라.
+sdfsdf
 </body>
 </html>
